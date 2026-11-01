@@ -1,6 +1,5 @@
-<!DOCTYPE html>
-<html lang="id">
-<head>
+<!ndex.html>
+<html langhtml<head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="theme-color" content="#090a0d">
